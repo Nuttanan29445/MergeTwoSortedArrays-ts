@@ -4,11 +4,11 @@
 npm install
 ```
 ## 2.Start project
-### 2.1 for run merge.ts
+### 2.1 for run main file (merge.ts)
 ```
 npm start
 ```
-### 2.2 for run unit test
+### 2.2 for run unit test (merge.test.ts)
 ```
 npm test
 ```
